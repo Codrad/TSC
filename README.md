@@ -13,3 +13,4 @@ lab2
 2. git config --global user.name "your_username"2)
 3. git config --global user.email "your_email_address@example.com"3) 
 4. git config --global --list
+5. git config --global credential.helper store
