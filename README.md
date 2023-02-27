@@ -15,3 +15,5 @@ lab2
 4. git config --global --list
 5. git config --global credential.helper store
 6. check for saved password
+
+Tema1 - Cum se sterg credentialele de pe calculator?
