@@ -1,4 +1,8 @@
-TSClab2/work
-TSClab2/vsim.wlf
-TSClab2/test.v:Zone.Identifier
-TSClab2/modelsim.ini
+*/work
+*/vsim.wlf
+*/test.v:Zone.Identifier
+*/modelsim.ini
+
+TSClab3/lab01_testbench-interface/tb_ifc.sv
+TSClab3/lab01_testbench-interface/run.f
+TSClab3/test/Readme.txt
