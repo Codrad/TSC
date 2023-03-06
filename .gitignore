@@ -3,6 +3,12 @@
 */test.v:Zone.Identifier
 */modelsim.ini
 
-TSClab3/lab01_testbench-interface/tb_ifc.sv
-TSClab3/lab01_testbench-interface/run.f
-TSClab3/test/Readme.txt
+*/wlft*
+
+TSClab3*/lab01_testbench-interface/tb_ifc.sv
+TSClab3*/lab01_testbench-interface/run.f
+TSClab3*/test/Readme.txt
+
+
+TSClab3_tema/lab01_testbench-interface/expected.log
+TSClab3_tema/mylog.txt
