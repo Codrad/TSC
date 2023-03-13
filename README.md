@@ -18,4 +18,6 @@ lab2
 7. ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 
-Tema1 - Cum se sterg credentialele de pe calculator?
+Tema1 - Cum se sterg credentialele de pe calculator? <br>
+Temalab4 - 2 cazuri (rp random wp incremental, rp random wp random) <br>
+         - de adaugat cazurile, fara a sterge cazurile
