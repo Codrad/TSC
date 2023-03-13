@@ -19,3 +19,5 @@ lab2
 
 
 Tema1 - Cum se sterg credentialele de pe calculator?
+Temalab4 - 2 cazuri (rp random wp incremental, rp random wp random)
+         - de adaugat cazurile, fara a sterge cazurile
