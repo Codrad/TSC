@@ -9,6 +9,9 @@ TSClab3*/lab01_testbench-interface/tb_ifc.sv
 TSClab3*/lab01_testbench-interface/run.f
 TSClab3*/test/Readme.txt
 
+TSClab4*/lab01_testbench-interface/tb_ifc.sv
+TSClab4*/lab01_testbench-interface/run.f
+TSClab4*/test/Readme.txt
 
 TSClab3_tema/lab01_testbench-interface/expected.log
 TSClab3_tema/mylog.txt
