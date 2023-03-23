@@ -11,6 +11,7 @@ vish_stacktrace.vstf
 */lab01_testbench-interface/tb_ifc.sv
 */lab01_testbench-interface/run.f
 */test/Readme.txt
+*.zip*
 
 TSClab3_tema/lab01_testbench-interface/expected.log
 TSClab3_tema/mylog.txt
