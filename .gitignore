@@ -8,7 +8,9 @@ vish_stacktrace.vstf
 
 */wlft*
 
-*/lab01_testbench-interface/tb_ifc.sv
+
+TSClab3_tema/lab01_testbench-interface/tb_ifc.sv
+TSClab[1-5]/lab01_testbench-interface/tb_ifc.sv
 */lab01_testbench-interface/run.f
 */test/Readme.txt
 *.zip*
